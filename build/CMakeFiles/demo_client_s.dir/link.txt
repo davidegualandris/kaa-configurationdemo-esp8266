@@ -1,0 +1,2 @@
+/opt/Espressif/crosstool-NG/builds/xtensa-lx106-elf/bin/xtensa-lx106-elf-ar qc libdemo_client_s.a  CMakeFiles/demo_client_s.dir/src/kaa_demo.c.o
+/opt/Espressif/crosstool-NG/builds/xtensa-lx106-elf/bin/xtensa-lx106-elf-ranlib libdemo_client_s.a

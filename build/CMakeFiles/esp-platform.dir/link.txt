@@ -1,0 +1,2 @@
+/opt/Espressif/crosstool-NG/builds/xtensa-lx106-elf/bin/xtensa-lx106-elf-ar qc libesp-platform.a  CMakeFiles/esp-platform.dir/user/user_main.c.o CMakeFiles/esp-platform.dir/driver/uart.c.o
+/opt/Espressif/crosstool-NG/builds/xtensa-lx106-elf/bin/xtensa-lx106-elf-ranlib libesp-platform.a

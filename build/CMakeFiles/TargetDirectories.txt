@@ -1,0 +1,5 @@
+/home/davide/Desktop/configurationdemo/build/CMakeFiles/edit_cache.dir
+/home/davide/Desktop/configurationdemo/build/CMakeFiles/esp-platform.dir
+/home/davide/Desktop/configurationdemo/build/CMakeFiles/demo_client_s.dir
+/home/davide/Desktop/configurationdemo/build/CMakeFiles/demo_client.dir
+/home/davide/Desktop/configurationdemo/build/CMakeFiles/rebuild_cache.dir
